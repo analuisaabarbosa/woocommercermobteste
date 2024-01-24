@@ -21,7 +21,7 @@ exports.config = {
             args: {
                 address: 'localhost',
                 port: 4723
-            },
+            }
         }]
     ],
 }
