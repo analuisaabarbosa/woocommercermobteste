@@ -23,5 +23,5 @@ exports.config = {
                 port: 4723
             }
         }]
-    ],
+    ]
 }
